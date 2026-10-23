@@ -135,11 +135,10 @@ Chen, D. (2012). *Online Retail II* [Dataset]. UCI Machine Learning Repository. 
 **Page 3: RFM Analysis.** A **Segment / Country** toggle. The segment view shows a performance summary table (customers, revenue, average R, F, M scores) and average customer value by segment. The country view shows the same table by country and the top 5 countries by average customer value. Both views trend churned % by month, quarter, and year.
 
 [RFM Analysis, Segment view] 
-
 <img width="698" height="439" alt="4" src="https://github.com/user-attachments/assets/78307bba-2d7a-4f60-9c70-b512772610dc" />
 
-[RFM Analysis, Country view]
 
+[RFM Analysis, Country view]
 <img width="699" height="437" alt="5" src="https://github.com/user-attachments/assets/cfc5d82d-8fc4-4577-b3b2-0d4e7d43da5d" />
 
 
