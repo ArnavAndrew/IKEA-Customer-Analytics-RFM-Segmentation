@@ -122,23 +122,27 @@ Chen, D. (2012). *Online Retail II* [Dataset]. UCI Machine Learning Repository. 
 
 **Page 1: Home.** Project title, navigation to the two report pages, and a glossary defining Recency, Frequency, Monetary, and Churned %.
 
-![Home and navigation]
+[Home and navigation]
 <img width="768" height="430" alt="1" src="https://github.com/user-attachments/assets/cda3333f-9d66-4623-a45b-0de765a57480" />
 
 **Page 2: Business Overview.** KPI cards for total customers, total revenue, churned %, and average customer value, with a **Revenue / Customer** toggle, segment breakdowns, and month, quarter, and year trends. Filterable by month, quarter, year, country, segment, and churn status.
 [Business Overview, Revenue view]
+
 <img width="703" height="436" alt="2" src="https://github.com/user-attachments/assets/7e6c8626-86cc-4092-ad8d-967fca19d526" />
 
 [Business Overview, Customer view]
+
 <img width="700" height="437" alt="3" src="https://github.com/user-attachments/assets/bd9a21cc-5b55-4592-b9d2-94cca5bf8328" />
 
 **Page 3: RFM Analysis.** A **Segment / Country** toggle. The segment view shows a performance summary table (customers, revenue, average R, F, M scores) and average customer value by segment. The country view shows the same table by country and the top 5 countries by average customer value. Both views trend churned % by month, quarter, and year.
 
 [RFM Analysis, Segment view] 
+
 <img width="698" height="439" alt="4" src="https://github.com/user-attachments/assets/78307bba-2d7a-4f60-9c70-b512772610dc" />
 
 
 [RFM Analysis, Country view]
+
 <img width="699" height="437" alt="5" src="https://github.com/user-attachments/assets/cfc5d82d-8fc4-4577-b3b2-0d4e7d43da5d" />
 
 
