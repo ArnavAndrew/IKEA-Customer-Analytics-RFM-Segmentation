@@ -83,7 +83,7 @@ IKEA Gifting wants to identify its most valuable customers and reduce churn amon
 
 **Online Retail II**, [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/502/online+retail+ii), donated by Daqing Chen. A real, anonymized transactional dataset from a UK-based, non-store online retailer that mainly sells all-occasion giftware, covering **1 December 2009 to 9 December 2011**. It contains **1,067,371 transaction records**, with unit prices in pounds sterling (£). Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). A backup copy is included in this repository with attribution.
 
-**Citation:** 
+Citation:
 Chen, D. (2012). *Online Retail II* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5CG6D
 ---
 ## Tools and Tech Stack
