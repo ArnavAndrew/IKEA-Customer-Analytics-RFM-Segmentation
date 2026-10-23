@@ -126,6 +126,7 @@ Chen, D. (2012). *Online Retail II* [Dataset]. UCI Machine Learning Repository. 
 <img width="768" height="430" alt="1" src="https://github.com/user-attachments/assets/cda3333f-9d66-4623-a45b-0de765a57480" />
 
 **Page 2: Business Overview.** KPI cards for total customers, total revenue, churned %, and average customer value, with a **Revenue / Customer** toggle, segment breakdowns, and month, quarter, and year trends. Filterable by month, quarter, year, country, segment, and churn status.
+
 [Business Overview, Revenue view]
 
 <img width="703" height="436" alt="2" src="https://github.com/user-attachments/assets/7e6c8626-86cc-4092-ad8d-967fca19d526" />
