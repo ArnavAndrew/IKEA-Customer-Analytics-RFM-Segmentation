@@ -44,26 +44,26 @@ IKEA Gifting wants to identify its most valuable customers and reduce churn amon
 
 | Segment | Description | Customers | % of Revenue | Avg. Customer Value |
 |---|---|---:|---:|---:|
-| Champions | High recency, frequency, and spend | 1,473 | **69.0%** | £8,143 |
-| Loyal | Consistent buyers with moderate-to-high value | 1,232 | 14.6% | £2,063 |
-| At Risk | Previously valuable, recently inactive | 823 | 9.1% | £1,930 |
-| Needs Attention | Moderate recency, low frequency | 1,529 | 3.8% | £429 |
-| New | Recent customers without repeat purchases yet | 442 | 2.3% | £887 |
-| Lost | No meaningful activity for an extended period | 382 | 1.2% | £530 |
-| **Total** | | **5,881** | **100%** | **£2,954** |
+| Champions | High recency, frequency, and spend | 1,473 | **69.0%** | $8,143 |
+| Loyal | Consistent buyers with moderate-to-high value | 1,232 | 14.6% | $2,063 |
+| At Risk | Previously valuable, recently inactive | 823 | 9.1% | $1,930 |
+| Needs Attention | Moderate recency, low frequency | 1,529 | 3.8% | $429 |
+| New | Recent customers without repeat purchases yet | 442 | 2.3% | $887 |
+| Lost | No meaningful activity for an extended period | 382 | 1.2% | $530 |
+| **Total** | | **5,881** | **100%** | **$2,954** |
 
-Total revenue across all segments is £17.4M (the dashboard's KPI card shows it rounded). Average customer value is total revenue divided by total customers. Revenue shares are derived from the dashboard's segment performance table.
+Total revenue across all segments is $17.4M (the dashboard's KPI card shows it rounded). Average customer value is total revenue divided by total customers. Revenue shares are derived from the dashboard's segment performance table.
 
 ---
 ## Key Findings
 
-- **Revenue is concentrated in Champions.** 1,473 customers (25.0% of the base) generate £12.0M, or 69.0% of revenue, at £8,143 per customer, nearly 4x the next-best segment.
+- **Revenue is concentrated in Champions.** 1,473 customers (25.0% of the base) generate $12.0M, or 69.0% of revenue, at $8,143 per customer, nearly 4x the next-best segment.
 - **Churn risk is significant.** 50.9% of customers are flagged as churned under the project's fixed 90-day inactivity rule.
 - **The largest segment is one of the least valuable.** Needs Attention has the most customers (1,529, 26%) but contributes only 3.8% of revenue.
-- **At Risk is the best win-back target.** These 823 customers have very low recency (1.71) but frequency and monetary scores (3.92 / 3.85) close to Loyal customers, and hold £1.6M (9.1%) of revenue.
-- **Customer value varies sharply by segment**, from £429 (Needs Attention) to £8,143 (Champions).
-- **Revenue peaks in Q4.** Q4 delivers £6.2M, about 36% of total revenue, versus £3.4M in Q1, consistent with a gifting-focused product range.
-- **The business is UK-centric.** The UK accounts for 91% of customers and 83% of revenue. A few smaller markets show very high value per customer (EIRE £123K, Singapore £25.3K, Netherlands £25.2K), but these rest on small customer bases, so treat them as leads, not rankings.
+- **At Risk is the best win-back target.** These 823 customers have very low recency (1.71) but frequency and monetary scores (3.92 / 3.85) close to Loyal customers, and hold $1.6M (9.1%) of revenue.
+- **Customer value varies sharply by segment**, from $429 (Needs Attention) to $8,143 (Champions).
+- **Revenue peaks in Q4.** Q4 delivers $6.2M, about 36% of total revenue, versus $3.4M in Q1, consistent with a gifting-focused product range.
+- **The business is UK-centric.** The UK accounts for 91% of customers and 83% of revenue. A few smaller markets show very high value per customer (EIRE $123K, Singapore $25.3K, Netherlands $25.2K), but these rest on small customer bases, so treat them as leads, not rankings.
 
 ## Suggested Actions
 
@@ -82,7 +82,8 @@ Total revenue across all segments is £17.4M (the dashboard's KPI card shows it 
 
 ## Data Source
 
-**Online Retail II**, [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/502/online+retail+ii), donated by Daqing Chen. A real, anonymized transactional dataset from a UK-based, non-store online retailer that mainly sells all-occasion giftware, covering **1 December 2009 to 9 December 2011**. It contains **1,067,371 transaction records**, with unit prices in pounds sterling (£). Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). A backup copy is included in this repository with attribution.
+**Online Retail II**, [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/502/online+retail+ii), donated by Daqing Chen. A real, anonymized transactional dataset from a UK-based, non-store online retailer that mainly sells all-occasion giftware, covering **1 December 2009 to 9 December 2011**. It contains **1,067,371 transaction records**, with unit prices in pounds sterling ($). Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). A backup copy is included in this repository with attribution.
+
 Citation:
 Chen, D. (2012). *Online Retail II* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5CG6D
 
